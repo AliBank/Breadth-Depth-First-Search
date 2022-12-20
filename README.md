@@ -14,16 +14,7 @@ Düğümlerin in-degree (kendisine doğru olan bağlantılar) değerini hesaplay
 
     3. Yukarıda 1. şıkta hesapladığınız düğümler içinde, X>M olmak üzere, in-degree değeri bir X sayısından büyük-eşit olan ve 2. şıkta hesapladığınız toplam gelen bağlantı sayısı bir Y değerinden büyük-eşit olan düğümler influencer kişilere aittir. Bu kişilerin bilgilerini yazdırınız. 
 
-Ödev Süresi:
-    1. Ödevinizi 20.12.2022 Salı saat 23:59’a kadar online.yildiz.edu.tr üzerinden HW4_OgrenciNumarasi.rar   dosyasını yükleyiniz. 
-    2. Ödev hakkında sorularınızı 16.12.2022 Cuma Günü Saat 17.00’a kadar Classroom grubundan sorabilirsiniz.
 
-Ödevinizi hazırlarken Classroom Sayfasında paylaşılan Ödev Teslim Kuralları başlığındaki kurallara uymanız gerekmektedir. 
-
-Teslim Edilecekler: 
-    1. Ödevinizin çalışmasını ekteki socialNET.txt dosyası için deneyiniz. Dosyada ilk satırlar düğüm no ve bu düğümdeki kişinin ad soyadını, altlarındaki satırlar ise takip ettikleri kişilerin düğüm no’larını göstermektedir. 
-    2. Yaptığınız çalışmayı yöntem, uygulama ve sonuç bölümlerinden oluşan bir raporda anlatınız.
-        a. Yöntem bölümünde problemi ve çözüm için önerdiğiniz yöntemi adım adım, kısaca anlatınız. 
         b. Uygulama bölümünde socialNET.txt dosyasını giriş olarak alıp, aşağıdaki durumlar için elde ettiğiniz sonuçlara ait program çıktılarınızın ekran görüntülerini ekleyerek gösteriniz. Programınız kullanıcının isteğine göre normal ve detay modu olmak üzere iki durum için çıktı vermelidir:
             i. Normal modda çalıştırma: Programınız normal modda çalıştırıldığında verilen  M, X ve Y değerleri için influencer kişilerin bilgilerini ekrana yazdırız.  
 
